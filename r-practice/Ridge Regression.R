@@ -5,7 +5,7 @@ numSim   <-  50 # 50 different estimators
 n        <-  10 # 10 observations generated
 p        <-  2 # 2 predictors
 lambda   <-  0.05
-rx       <-  0.3 # correlation coefficient
+rx       <-  1 # correlation coefficient
 sigmae   <-  0.2 # adjust (orig. 0.2)
 beta1    <-  5
 beta2    <- -1
